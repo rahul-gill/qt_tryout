@@ -1,0 +1,5 @@
+/opt/clion-2023.1.3/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion-2023.1.3/bin/ninja/linux/x64/ninja -G Ninja -S /home/ashen-one/CLionProjects/qt_tryout_clion -B /home/ashen-one/CLionProjects/qt_tryout_clion/cmake-build-debug
+-- Could NOT find XKB (missing: XKB_LIBRARY XKB_INCLUDE_DIR) (Required is at least version "0.5.0")
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ashen-one/CLionProjects/qt_tryout_clion/cmake-build-debug

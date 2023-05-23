@@ -1,0 +1,5 @@
+/home/ashen-one/CLionProjects/qt_tryout_clion/cmake-build-debug/CMakeFiles/qt_tryout_clion.dir
+/home/ashen-one/CLionProjects/qt_tryout_clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ashen-one/CLionProjects/qt_tryout_clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ashen-one/CLionProjects/qt_tryout_clion/cmake-build-debug/CMakeFiles/qt_tryout_clion_autogen_timestamp_deps.dir
+/home/ashen-one/CLionProjects/qt_tryout_clion/cmake-build-debug/CMakeFiles/qt_tryout_clion_autogen.dir
